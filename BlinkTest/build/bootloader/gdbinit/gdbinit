@@ -1,0 +1,2 @@
+source C:/Users/redda/Documents/GitHub/ESP32/BlinkTest/build/bootloader/gdbinit/symbols
+source C:/Users/redda/Documents/GitHub/ESP32/BlinkTest/build/bootloader/gdbinit/connect
