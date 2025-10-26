@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "main",
-    "project_version":    "a98d10e",
+    "project_version":    "8a650bb-dirty",
     "project_path":       "C:/Users/redda/Documents/GitHub/ESP32/spi_02_display",
     "idf_path":           "C:/Users/redda/esp/v5.4.1/esp-idf",
     "build_dir":          "C:/Users/redda/Documents/GitHub/ESP32/spi_02_display/build",
